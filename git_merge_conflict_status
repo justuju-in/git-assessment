@@ -1,0 +1,21 @@
+On branch master
+Your branch and 'origin/master' have diverged,
+and have 7 and 1 different commits each, respectively.
+  (use "git pull" if you want to integrate the remote branch with yours)
+
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+  (use "git merge --abort" to abort the merge)
+
+Changes to be committed:
+	new file:   contact-us.html
+	new file:   faq.html
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+	both modified:   e.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	git_merge_conflict_status
+

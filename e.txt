@@ -1,1 +1,1 @@
-Make changes to e in branch master
+I can discard all changes to e.txt and write it completely fresh
