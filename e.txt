@@ -1,0 +1,1 @@
+I can discard all changes to e.txt and write it completely fresh.
