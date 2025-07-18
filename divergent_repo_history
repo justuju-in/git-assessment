@@ -1,0 +1,26 @@
+ git log --oneline --all --graph
+* 9fd5137 (HEAD -> master) Fix bugs in music.html.
+| * a736312 (feature) dd faq.html with common questions and answers.
+| * 9f90cd7 Add contact-us.html with basic contact form.
+|/  
+* 329b506 (new_branch, Pooja)  Added log reports to the repo.
+* 8032750 Rename b.text to Music.html
+* a047ae6 Rename a.text to index.html
+* f1ffa5f (origin/master, origin/HEAD) resolved rebase conflicts
+* 5ccfc81 Update a.txt
+* fcba233 Create remote-file
+*   cd93d85 Merged branch1 with master
+|\  
+| * 2780d7b (origin/branch1) Added text in a in branch1
+* | 387af47 Added some text to a in master
+|/  
+* 2584419 changed a
+*   eea3980 Merge branch 'newBranch'
+|\  
+| * ff67532 Added a new file b
+* | f4a5755 Added e
+* | a14a78d added file d
+|/  
+* 953ba9c Changes to b and rename b to c
+* 0a0df4a made some changes to the text files.
+:
