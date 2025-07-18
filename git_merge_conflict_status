@@ -1,0 +1,15 @@
+On branch master
+Your branch is ahead of 'origin/master' by 6 commits.
+  (use "git push" to publish your local commits)
+
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+  (use "git merge --abort" to abort the merge)
+
+Changes to be committed:
+        new file:   contact-us.html
+        new file:   faq.html
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+        both modified:   e.txt
