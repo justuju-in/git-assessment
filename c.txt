@@ -1,4 +1,0 @@
-Some text in file b.txt
-random text.
-some more random text.
-Hello
