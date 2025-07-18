@@ -1,5 +1,0 @@
-Hello
-Hello again
-Bye
-I'm making some changes in this file as user2. 
-I am editing this file as user 1 and will amend the commit made by user2.
