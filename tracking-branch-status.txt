@@ -1,3 +1,5 @@
 * chhotu-assessment  b0900bc [origin/chhotu-assessment] Untrack remote-file
   main               71efc4e [origin/main] Initial commit
   rajitha-assessment 437ec36 [origin/rajitha-assessment: ahead 1] Add tracking branch status.
+* assessment-rajitha e74c837 [origin/assessment-rajitha] Append tracking branch status.
+  main               71efc4e [origin/main] Initial commit
