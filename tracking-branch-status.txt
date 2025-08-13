@@ -3,3 +3,6 @@
   main               71efc4e [origin/main] Initial commit
 * prateek-assessment d55eb51 [origin/prateek-assessment: ahead 1] Add tracking branch status.
   rani-assessment    c8a0b56 [origin/rani-assessment] Untrack remote-file.
+* assessment-prateek d17904a [origin/prateek-assessment: gone] Add remote branches.
+  main               71efc4e [origin/main] Initial commit
+  rani-assessment    c8a0b56 [origin/rani-assessment] Untrack remote-file.
