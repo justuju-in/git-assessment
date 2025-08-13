@@ -1,0 +1,2 @@
+  main               71efc4e [origin/main] Initial commit
+* prateek-assessment a3c1fe6 [origin/prateek-assessment] Untrack remote-file
