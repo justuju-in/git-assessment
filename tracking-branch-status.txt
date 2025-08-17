@@ -3,3 +3,6 @@
 * mahima-assessment  933f660 [origin/mahima-assessment: ahead 2, behind 26] Add tracking branch status
   main               71efc4e [origin/main] Initial commit
   rajitha-assessment 933f660 Add tracking branch status
+* assessment-mahima  f145128 [origin/assessment-mahima: ahead 1] Record remote branches
+  main               71efc4e [origin/main] Initial commit
+  rajitha-assessment 933f660 Add tracking branch status
