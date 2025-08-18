@@ -1,0 +1,6 @@
+  assessment-prateek f829811 [origin/assessment-prateek] Append tracking branch status again.
+  assessment-rajitha 220f03e [origin/assessment-rajitha] Update tracking branch info and commit latest changes
+  assessment-rani    c8a0b56 [origin/rani-Assessment: gone] Untrack remote-file.
+* discussion         a3c1fe6 [origin/prateek-assessment] Untrack remote-file
+  main               71efc4e [origin/main] Initial commit
+  rajitha-assessment adabd8f [origin/rajitha-assessment: gone] Untrack remote-file
