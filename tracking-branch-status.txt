@@ -3,3 +3,14 @@ main              71efc4e [origin/main] Initial commit
 * chhotu-assessment  4cdebc2 [origin/chhotu-assessment: ahead 1] Add tracking branch status.
   main               71efc4e [origin/main] Initial commit
   rajitha-assessment 220f03e [origin/assessment-rajitha] Update tracking branch info and commit latest changes
+  origin/HEAD -> origin/main
+  origin/Pooja_assessment
+  origin/assessment-chhotu
+  origin/assessment-mahima
+  origin/assessment-prateek
+  origin/assessment-rajitha
+  origin/assessment-rani
+  origin/experiment
+  origin/main
+  origin/rani-assessment
+  origin/shanti-assessment
