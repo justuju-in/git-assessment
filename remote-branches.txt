@@ -1,0 +1,15 @@
+  origin/HEAD -> origin/main
+  origin/Pooja_assessment
+  origin/assessment-chhotu
+  origin/assessment-mahima
+  origin/assessment-prateek
+  origin/assessment-rajitha
+  origin/assessment-rani
+  origin/chhotu-assessment
+  origin/experiment
+  origin/git-assessment-discussion
+  origin/mahima-assessment
+  origin/main
+  origin/prateek-assessment
+  origin/rani-assessment
+  origin/shanti-assessment
