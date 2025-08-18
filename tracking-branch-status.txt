@@ -11,3 +11,10 @@
 * discussion         af6e1d2 [origin/main: ahead 27, behind 1] Add tracking branch status
   main               71efc4e [origin/main] Initial commit
   rajitha-assessment adabd8f [origin/rajitha-assessment: gone] Untrack remote-file
+  assessment-chhotu         10f802c [origin/assessment-chhotu] Update tracking branch status after deleting
+  assessment-prateek        f829811 [origin/assessment-prateek] Append tracking branch status again.
+  assessment-rajitha        220f03e [origin/assessment-rajitha] Update tracking branch info and commit latest changes
+  assessment-rani           c8a0b56 [origin/rani-Assessment: gone] Untrack remote-file.
+* git-assessment-discussion ca33066 [origin/git-assessment-discussion: gone] Add remote branch text
+  main                      71efc4e [origin/main] Initial commit
+  rajitha-assessment        adabd8f [origin/rajitha-assessment: gone] Untrack remote-file
