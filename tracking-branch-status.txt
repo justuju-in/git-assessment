@@ -1,2 +1,4 @@
   main              71efc4e [origin/main] Initial commit
 * shanti-assessment 71efc4e Initial commit
+  main              71efc4e [origin/main] Initial commit
+* shanti-assessment 087e8c2 [origin/shanti-assessment: ahead 2, behind 25] Add tracking branch status.
