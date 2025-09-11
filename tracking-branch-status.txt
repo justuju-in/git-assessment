@@ -1,3 +1,6 @@
   main             71efc4e [origin/main] Initial commit
 * pooja-assessment abeca9b [origin/Pooja_assessment] Change e in feature/content-pages.
   rani-assessment  a82a32e [origin/rani-assessment: ahead 1] Add tracking branch status.
+* assessment-rani 763e69f [origin/assessment-rani: ahead 1] remote-branch.txt
+  main            71efc4e [origin/main] Initial commit
+  rani-assessment a82a32e [origin/rani-assessment: gone] Add tracking branch status.
