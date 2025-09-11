@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I can discard all changes to e.txt and write it completely fresh.
+=======
+I can discard all changes to e.txt and write it completely fresh
+>>>>>>> c8a0b5643bca44ec53167935e5f0d541bcb395c4

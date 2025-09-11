@@ -1,0 +1,4 @@
+git merge feature/content-pages 
+Auto-merging e.txt
+CONFLICT (content): Merge conflict in e.txt
+Automatic merge failed; fix conflicts and then commit the result.

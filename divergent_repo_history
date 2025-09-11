@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  git log --oneline --all --graph
 * 9fd5137 (HEAD -> master) Fix bugs in music.html.
 | * a736312 (feature) dd faq.html with common questions and answers.
@@ -7,11 +8,24 @@
 * 8032750 Rename b.text to Music.html
 * a047ae6 Rename a.text to index.html
 * f1ffa5f (origin/master, origin/HEAD) resolved rebase conflicts
+=======
+* e48d863 Fix bugs in music.html.
+| * 8a1ff5d Add contact-us.html with basic contact form
+|/  
+* 2412290 added log reports to the repo
+* de970ba rename b.txt to music.html
+* d5a6e75 renname a.txt to index.html
+* f1ffa5f resolved rebase conflicts
+>>>>>>> c8a0b5643bca44ec53167935e5f0d541bcb395c4
 * 5ccfc81 Update a.txt
 * fcba233 Create remote-file
 *   cd93d85 Merged branch1 with master
 |\  
+<<<<<<< HEAD
 | * 2780d7b (origin/branch1) Added text in a in branch1
+=======
+| * 2780d7b Added text in a in branch1
+>>>>>>> c8a0b5643bca44ec53167935e5f0d541bcb395c4
 * | 387af47 Added some text to a in master
 |/  
 * 2584419 changed a
@@ -23,4 +37,9 @@
 |/  
 * 953ba9c Changes to b and rename b to c
 * 0a0df4a made some changes to the text files.
+<<<<<<< HEAD
 :
+=======
+* 2ca80d9 added b.txt and modified a.txt
+* f1605fd Added a text file a.txt to the repo.
+>>>>>>> c8a0b5643bca44ec53167935e5f0d541bcb395c4
