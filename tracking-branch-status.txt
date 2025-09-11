@@ -1,3 +1,6 @@
 * Rani-assesmentt  c8a0b56 [origin/rani-assessment] Untrack remote-file.
   main             71efc4e [origin/main] Initial commit
   pooja-assessment 0d18877 [origin/Pooja_assessment: ahead 1] Add tracking branch status.
+* assessment-pooja 3668f02 [origin/assessment-pooja: ahead 1] Add remote branches list
+  main             71efc4e [origin/main] Initial commit
+  pooja-assessment 0d18877 [origin/Pooja_assessment: gone] Add tracking branch status.
